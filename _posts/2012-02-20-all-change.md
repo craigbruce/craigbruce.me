@@ -2,7 +2,7 @@
 layout: default
 title: "All change"
 date: 2012-02-20 05:24 -0700
-tag: openeye
+tags: openeye
 ---
 
 ![OpenEye Scientific Software]({{ "/assets/oelogo.png" | absolute_url }})
