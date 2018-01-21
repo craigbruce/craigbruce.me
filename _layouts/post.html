@@ -13,7 +13,7 @@
     <section class="page-header">
       <h1 class="project-name">{{ page.title }}</h1>
       <h2 class="project-tagline">{{ page.description }}</h2>
-      <h3 class="project-tagline">{{ page.date | date: "%b %d, %Y" }}</h3>
+      <h3 class="project-tagline">{{ page.date | date_to_string }}</h3>
     </section>
 
     <section class="main-content">
