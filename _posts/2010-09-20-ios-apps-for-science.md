@@ -2,7 +2,7 @@
 layout: default
 title: iOS apps for Science
 date: 2010-09-20 23:11 +0000
-Tags: ipad, iphone, mac os x
+tags: ipad, iphone, mac os x
 ---
 
 I was going to list interesting iPhone/iPad apps months ago, but there
