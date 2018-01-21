@@ -9,12 +9,11 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Craig Bruce
 email: craigbruce@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A technical slant on the tools required for the trade. Where my trade is 
+  cloud computing, linux system administration, cheminformatics & computational chemistry. 
 baseurl: ""
 url: ""
 
@@ -36,6 +35,9 @@ twitter_username: craigbruce
 github_username:  craigbruce
 webmaster_verifications:
   google: dk7eJRLNv7t-5tJFfOZooRFXkFKc-zQJxw6KggxkJOc
+
+# Google Analytics
+google_analytics: UA-45368132-3
 
 # Build settings
 markdown: kramdown
