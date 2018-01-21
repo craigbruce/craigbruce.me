@@ -2,6 +2,7 @@
 layout: default
 title: Blog spring clean
 date: 2010-08-30 18:08 +0000
+description: Enabling code highlighting using Google Blogger
 ---
 
 Admittedly this is late for a spring clean, but Blogger has introduced a

@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Subversion Edge
-date: 2011-01-15 18:32 +0000
+date: 2010-09-23 18:32 +0000
+image: /assets/csvn.png
 tags: red hat, subversion
+description: Easy centralization of svn repositories using Subversion Edge
 ---
 
 ![Subversion Edge]({{ "/assets/csvn.png" | absolute_url }})

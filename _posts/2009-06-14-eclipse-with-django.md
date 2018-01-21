@@ -2,7 +2,9 @@
 layout: default
 title: Eclipse with Django
 date: 2009-06-14 18:29 +0000
+image: /assets/django.gif
 tags: django, eclipse, python
+description: Developing Django websites using Eclipse as your IDE
 ---
 
 ![Django]({{ "/assets/django.gif" | absolute_url }})

@@ -2,7 +2,9 @@
 layout: default
 title: Eclipse Galileo
 date: 2009-06-28 18:08 +0000
+image: /assets/eclipse_is_here.png
 tags: eclipse
+description: Eclipse Galileo is now generally available
 ---
 
 ![Eclipse Galileo]({{ "/assets/eclipse_is_here.png" | absolute_url }})

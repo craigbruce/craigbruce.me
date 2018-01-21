@@ -2,7 +2,9 @@
 layout: default
 title: Eclipse with C++/OEChem
 date: 2009-06-01 14:30 +0000
+image: /assets/cdt.png
 tags: eclipse, openeye
+description: Use OpenEye C++ OEChem toolkit in the Eclipse IDE
 ---
 
 ![Eclipse CDT]({{ "/assets/cdt.png" | absolute_url }})
