@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My first WordCamp
 date: 2013-11-03 20:04 -0700
 tags: php, wordpress

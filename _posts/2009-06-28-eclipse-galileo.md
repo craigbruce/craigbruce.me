@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Eclipse Galileo
 date: 2009-06-28 18:08 +0000
 image: /assets/eclipse_is_here.png

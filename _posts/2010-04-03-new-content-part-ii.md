@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: New content... part II
 date: 2010-04-03 16:58 +0000
 ---

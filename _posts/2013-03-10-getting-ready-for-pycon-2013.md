@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Getting ready for PyCon 2013
 date: 2013-03-10 06:24 -0700
 tags: pycon, python

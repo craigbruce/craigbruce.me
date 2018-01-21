@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: iOS apps for Science
 date: 2010-09-20 23:11 +0000
 tags: ipad, iphone, mac os x

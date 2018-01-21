@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Computational Chemistry sandwich placement available
 date: 2011-12-28 18:31 +0000
 tags: cheminformatics, computational chemistry

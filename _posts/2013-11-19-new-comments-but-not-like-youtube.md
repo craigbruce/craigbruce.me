@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: New comments, but not like YouTube
 date: 2013-11-19 17:00 -0700
 tags: general

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Subversion Edge
 date: 2010-09-23 18:32 +0000
 image: /assets/csvn.png

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Tag your AWS resources in StarCluster
 date: 2014-11-10 22:30 -0700
 tags: aws, starcluster

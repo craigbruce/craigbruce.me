@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Eclipse with Django
 date: 2009-06-14 18:29 +0000
 image: /assets/django.gif

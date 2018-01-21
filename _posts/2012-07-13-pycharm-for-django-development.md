@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: PyCharm for Django development
 date: 2012-07-13 04:55 -0700
 tags: django, pycharm, python

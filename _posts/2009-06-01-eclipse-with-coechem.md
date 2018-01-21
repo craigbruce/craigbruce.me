@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Eclipse with C++/OEChem
 date: 2009-06-01 14:30 +0000
 image: /assets/cdt.png

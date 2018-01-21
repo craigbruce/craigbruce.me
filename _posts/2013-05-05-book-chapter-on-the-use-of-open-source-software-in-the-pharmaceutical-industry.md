@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Book chapter on the use of open source software in the pharmaceutical industry
 date: 2013-05-05 06:28 +0000
 tags: cheminformatics, django, python, red hat

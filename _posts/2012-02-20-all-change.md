@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "All change"
+layout: post
+title: All change
 date: 2012-02-20 05:24 -0700
 tags: openeye
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Notes and more everywhere
 date: 2012-02-21 05:31 -0700
 tags: ios

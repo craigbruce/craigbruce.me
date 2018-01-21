@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GDG DevFest now includes Albuquerque
 date: 2013-11-19 05:00 -0700
 tags: google

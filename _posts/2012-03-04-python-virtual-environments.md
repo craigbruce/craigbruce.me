@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Python Virtual Environments
 date: 2012-03-04 07:35 +0700
 tags: python

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Using Gunicorn with PyCharm
 date: 2012-07-18 05:28 -0700
 tags: django, pycharm, python

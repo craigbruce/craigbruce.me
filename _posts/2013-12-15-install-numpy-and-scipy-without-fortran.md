@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Install NumPy and SciPy without Fortran
 date: 2013-12-15 21:39 -0700
 tags: python

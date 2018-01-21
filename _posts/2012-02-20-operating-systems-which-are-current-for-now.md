@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Operating systems which are current for now
 date: 2012-02-20 06:07 -0700
 tags: mac os x, red hat, ubuntu

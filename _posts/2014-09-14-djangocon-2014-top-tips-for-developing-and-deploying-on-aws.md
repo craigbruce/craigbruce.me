@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "DjangoCon 2014: Top tips for developing and deploying on AWS"
 date: 2014-09-14 21:23 -0700
 tags: aws, django, python

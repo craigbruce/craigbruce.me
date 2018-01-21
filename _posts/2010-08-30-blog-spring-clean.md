@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Blog spring clean
 date: 2010-08-30 18:08 +0000
 description: Enabling code highlighting using Google Blogger
