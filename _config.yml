@@ -11,11 +11,11 @@
 # Site settings
 title: Craig Bruce
 email: craigbruce@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   A technical slant on the tools required for the trade. Where my trade is 
   cloud computing, linux system administration, cheminformatics & computational chemistry. 
 baseurl: ""
-url: ""
+url: "https://craigbruce.me"
 
 permalink: /blog/:year/:month/:day/:title.html
 
