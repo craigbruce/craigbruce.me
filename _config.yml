@@ -17,7 +17,7 @@ description: >-
 baseurl: ""
 url: "https://craigbruce.me"
 
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /blog/:year/:month/:day/:title/
 
 # Social/SEO settings
 author: Craig Bruce
