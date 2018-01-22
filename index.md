@@ -6,7 +6,7 @@ layout: home
 ---
 
 <h2>
-<a href="blog">Blog</a>
+<a href="/blog">Blog</a>
 </h2>
 
 <h3>About me</h3>
