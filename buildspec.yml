@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.deb .
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.deb
       - sudo apt-get install hugo_extended_0.52_Linux-64bit.deb
       - hugo version
   pre_build:
