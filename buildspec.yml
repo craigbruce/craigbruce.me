@@ -11,7 +11,7 @@ phases:
       - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
       - python3 get-pip.py
       - pip install awscli
-      - aws version
+      - aws --version
   pre_build:
     commands:
       - echo Nothing to do in the pre_build phase...
