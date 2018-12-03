@@ -8,9 +8,9 @@ phases:
       - wget -q https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.tar.gz
       - tar -xvzf hugo_extended_0.52_Linux-64bit.tar.gz 
       - ./hugo version
-#      - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-#      - python3 get-pip.py
-      - python3 -m pip install --upgrade pip setuptools wheel
+      - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+      - python3 get-pip.py
+#      - python3 -m pip install --upgrade pip setuptools wheel
       - pip install awscli
       - aws --version
   pre_build:
