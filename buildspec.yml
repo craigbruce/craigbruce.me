@@ -4,7 +4,7 @@ phases:
   install:
     commands:
       - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.deb
-      - sudo apt-get install -f hugo_extended_0.52_Linux-64bit.deb
+      - sudo apt-get install -f ./hugo_extended_0.52_Linux-64bit.deb
       - hugo version
   pre_build:
     commands:
