@@ -3,6 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
+      - sudo apt-get update
       - sudo apt-get install hugo
       - hugo version
   pre_build:
