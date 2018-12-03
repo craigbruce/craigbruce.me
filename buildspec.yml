@@ -8,6 +8,8 @@ phases:
       - wget https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.tar.gz
       - tar -xvzf hugo_extended_0.52_Linux-64bit.tar.gz 
       - ./hugo version
+      - pip install awscli
+      - aws version
   pre_build:
     commands:
       - echo Nothing to do in the pre_build phase...
@@ -15,6 +17,7 @@ phases:
     commands:
       - echo Build started on `date`
       - ./hugo
+      - echo Copy to S3
   post_build:
     commands:
       - echo Build completed on `date`
