@@ -19,7 +19,7 @@ phases:
     commands:
       - echo Build started on `date`
       - ./hugo
-      - aws s3 sync --delete public s3://craigbruce.me
+      - aws s3 sync --delete --storage-class STANDARD_IA public s3://craigbruce.me
   post_build:
     commands:
       - echo Build completed on `date`
