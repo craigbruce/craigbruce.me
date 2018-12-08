@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Tag your AWS resources in StarCluster
-date: 2014-11-10 22:30 -0700
-tags: aws, starcluster
+title: "Tag Your AWS Resources in StarCluster"
+date: 2014-11-10T22:30:07-07:00
 ---
-
-![StarCluster]({{ "/assets/starcluster_logo.png" | absolute_url }})
 
 [StarCluster](http://star.mit.edu/cluster/) is a convenient way to
 manage HPC clusters on [Amazon Web Services](https://aws.amazon.com/)
@@ -24,14 +20,15 @@ StarCluster, not terminate every EC2 instance in your account. This is a
 topic for another blog post, but requires tagging to help restrict
 permissions.  
   
-There are three steps to enable tagging within StarCluster:  
-1.  Save a custom plugin
-2.  Configure the plugin in your config
-3.  Add the plugin to your cluster stanza
+There are three steps to enable tagging within StarCluster:
+
+1. Save a custom plugin
+2. Configure the plugin in your config
+3. Add the plugin to your cluster stanza
 
 First, save this custom plugin, which we call tagger, to ``$HOME/.starcluster/plugins/tagger.py``
 
-{% highlight python %}
+{{< highlight python3 >}}
 # Install this file to $HOME/.starcluster/plugins/tagger.py or somewhere on your $PYTHONPATH
 from starcluster.clustersetup import ClusterSetup
 from starcluster.logger import log
@@ -54,27 +51,27 @@ class TaggerPlugin(ClusterSetup):
             val = self.tags.get(tag)
             log.info("Applying tag - {0}: {1}".format(tag, val))
             node.add_tag(tag, val)
-{% endhighlight %}
+{{< / highlight >}}
 
 Second, at the bottom of your StarCluster configuration (typically ``$HOME/.starcluster/config``)
 define the tags you want to attach. Take care in picking your tags, you
 want everyone using the same tag key/values.  
 
-{% highlight ini %}
+{{< highlight ini >}}
 [plugin tagger]
 setup_class = tagger.TaggerPlugin
 tags = {'owner':'craig', 'dept':'development'}
-{% endhighlight %}
+{{< / highlight >}}
   
 Finally, get your cluster to call the new plugin, by editing your
 cluster stanza:  
 
-{% highlight ini %}
+{{< highlight ini >}}
 [cluster smallcluster]
 # Various other settings... 
 # Enable the following plugins</span>  
 PLUGINS = tagger 
-{% endhighlight %} 
+{{< / highlight >}}
   
 Now when you launch your next cluster you will see a few extra lines in
 the output confirming tagger has run and you can check on the AWS
