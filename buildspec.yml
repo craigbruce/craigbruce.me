@@ -20,7 +20,7 @@ phases:
     commands:
       - echo Build started on `date`
       - ./hugo
-      - echo Copy to S3
+      - aws s3 sync --delete public s3://craigbruce.me
   post_build:
     commands:
       - echo Build completed on `date`
