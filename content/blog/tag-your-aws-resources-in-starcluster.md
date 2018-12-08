@@ -1,7 +1,6 @@
 ---
 title: "Tag Your AWS Resources in StarCluster"
 date: 2014-11-10T22:30:07-07:00
-draft: true
 ---
 
 [StarCluster](http://star.mit.edu/cluster/) is a convenient way to
