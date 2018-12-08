@@ -16,14 +16,14 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Craig Bruce"
     info = "DevOps/Infrastruture/SysAdmin/Cheminformatician"
-    description = "John Doe's personal website"
+    description = "Craig Bruce's personal website"
     keywords = "blog,developer,personal,devops,aws"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Technical tools of the trade"
 
     hidecredits = false
     hidecopyright = false
@@ -54,7 +54,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url  = "/blog/"
 [[menu.main]]
     name = "About"
     weight = 2
