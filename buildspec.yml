@@ -1,12 +1,16 @@
 version: 0.2
 
+env:
+  variables:
+    HUGO_VERSION: "0.52"
+
 phases:
   install:
     commands:
       - apt-get update
       - apt-get install -y curl python3-dev git
-      - curl -L https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_extended_0.52_Linux-64bit.tar.gz -o hugo_extended_0.52_Linux-64bit.tar.gz
-      - tar -xvzf hugo_extended_0.52_Linux-64bit.tar.gz 
+      - curl -L https://github.com/gohugoio/hugo/releases/download/v$HUGO_VERSION/hugo_extended_$HUGO_VERSION_Linux-64bit.tar.gz -o hugo_extended_$HUGO_VERSION_Linux-64bit.tar.gz
+      - tar -xvzf hugo_extended_$HUGO_VERSION_Linux-64bit.tar.gz 
       - ./hugo version
       - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
       - python3 get-pip.py
