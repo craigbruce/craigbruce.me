@@ -14,10 +14,9 @@ phases:
       - aws --version
   pre_build:
     commands:
-      - echo Nothing to do in the pre_build phase...
+      - git status
   build:
     commands:
-      - echo Build started on `date`
       - ./hugo
       - aws s3 sync --delete --storage-class STANDARD_IA public s3://craigbruce.me
   post_build:
