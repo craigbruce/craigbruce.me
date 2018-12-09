@@ -14,7 +14,7 @@ phases:
       - aws --version
   pre_build:
     commands:
-      - git status
+      - git clone https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
   build:
     commands:
       - ./hugo
