@@ -1,11 +1,7 @@
 ---
-layout: post
 title: "DjangoCon 2014: Top tips for developing and deploying on AWS"
-date: 2014-09-14 21:23 -0700
-tags: aws, django, python
+date: 2014-09-14T21:23:00-07:00
 ---
-
-![DjangoCon 2014]({{ "/assets/dcus2014.png" | absolute_url }})
 
 I was at my third DjangoCon earlier this month. As with the previous
 DjangoCon's it was a lot of fun. For the first time I was speaking,
@@ -30,4 +26,5 @@ You can review the slides and videos below - I hope you find it useful.
 
 <script async class="speakerdeck-embed" data-id="73d0ab00168101321031426a91aead3e" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gT4oC6QyN2Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+{{< youtube gT4oC6QyN2Q >}}
