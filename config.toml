@@ -9,6 +9,8 @@ canonifyurls = true
 
 disqusShortname = "cheminsilico"
 
+googleAnalytics = "UA-45368132-3"
+
 [params]
     author = "Craig Bruce"
     info = "DevOps/Infrastruture/SysAdmin/Cheminformatician"
