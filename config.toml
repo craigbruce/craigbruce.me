@@ -1,17 +1,13 @@
 baseURL = "https://craigbruce.me/"
-languageCode = "en-us"
-defaultcontentlanguage = "en-us"
+languageCode = "en"
+defaultcontentlanguage = "en"
 title = "Scientific Computing"
 theme = "hugo-coder"
 
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "bw"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "cheminsilico"
 
 [params]
     author = "Craig Bruce"
