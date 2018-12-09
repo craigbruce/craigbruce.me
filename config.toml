@@ -1,7 +1,7 @@
 baseURL = "https://craigbruce.me/"
 languageCode = "en"
 defaultcontentlanguage = "en"
-title = "Scientific Computing"
+title = "Craig Bruce"
 theme = "hugo-coder"
 
 paginate = 20
@@ -18,8 +18,8 @@ googleAnalytics = "UA-45368132-3"
     keywords = "blog,developer,personal,devops,aws"
     avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
 
     footercontent = "Technical tools of the trade"
 
