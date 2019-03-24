@@ -22,7 +22,8 @@ phases:
   build:
     commands:
       - ./hugo
-      - zip -r -j public craigbruceme.zip public 
+      - cd public
+      - zip -r craigbruceme.zip ./public 
 #      - aws s3 sync --delete --storage-class STANDARD_IA public s3://craigbruce.me
   post_build:
     commands:
