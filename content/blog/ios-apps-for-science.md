@@ -1,9 +1,6 @@
 ---
-layout: post
-title: iOS apps for Science
-date: 2010-09-20 23:11 +0000
-tags: ipad, iphone, mac os x
-description: iOS has a growing collection of science centric apps
+title: "iOS apps for Science"
+date: 2010-09-20T23:11:32+00:00
 ---
 
 I was going to list interesting iPhone/iPad apps months ago, but there
