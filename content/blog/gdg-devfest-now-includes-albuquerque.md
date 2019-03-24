@@ -1,11 +1,9 @@
 ---
-layout: post
-title: GDG DevFest now includes Albuquerque
-date: 2013-11-19 05:00 -0700
-tags: google
+title: "GDG DevFest now includes Albuquerque"
+date: 2013-11-19T05:00:03-07:00
 ---
 
-![Google Developer Group (GDG) Albuquerque]({{ "/assets/gdg_abq.png" | absolute_url }})
+![Google Developer Group (GDG) Albuquerque](/img/gdg_abq.png)
 
 Albuquerque just had it's first [GDG DevFest](http://www.gdgabq.com/)
 (translation - Google Developer Group meetup). Where a selection of
