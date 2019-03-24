@@ -1,11 +1,9 @@
 ---
-layout: post
-title: New comments, but not like YouTube
-date: 2013-11-19 17:00 -0700
-tags: general
+title: "New comments, but not like YouTube"
+date: 2013-11-19T17:00:43-07:00
 ---
 
-![Comments on Blogs]({{ "/assets/blog_comments.jpg" | absolute_url }})
+![Comments on Blogs](/img/blog_comments.jpg)
 
 I have switched the comments on this blog to
 [Disqus](http://disqus.com/) (pronounced "discuss" as their engineers
