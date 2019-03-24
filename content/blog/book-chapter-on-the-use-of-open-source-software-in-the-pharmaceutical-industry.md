@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Book chapter on the use of open source software in the pharmaceutical industry
-date: 2013-05-05 06:28 +0000
-tags: cheminformatics, django, python, red hat
+title: "Book chapter on the use of open source software in the pharmaceutical industry"
+date: 2013-05-05T06:28:01-07:00
 ---
 
-
-![Open source software in life science research: Practical solutions to common challenges in the pharmaceutical industry and beyond]({{ "/assets/ospharmacover.jpg" | absolute_url }})
+![Open source software in life science research: Practical solutions to common challenges in the pharmaceutical industry and beyond](/img/ospharmacover.jpg)
 
 During my final year at AstraZeneca I was asked to contribute a chapter
 to "Open source software in life science research: Practical solutions
