@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Install NumPy and SciPy without Fortran
-date: 2013-12-15 21:39 -0700
-tags: python
+title: "Install NumPy and SciPy without Fortran"
+date: 2013-12-15T21:39:01-07:00
 ---
 
 [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/) are
@@ -34,18 +32,18 @@ a new feature has just been announced, you can pip install anaconda
 itself then take advantage of the binary distributions it provides for
 you.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want easy installation of NumPy stack in *your* Python? pip install conda now works! Then conda init, then conda install scikit-learn</p>&mdash; Travis Oliphant (@teoliphant) <a href="https://twitter.com/teoliphant/status/401868707913158656?ref_src=twsrc%5Etfw">November 17, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< tweet 401868707913158656 >}}
 
-So try this (assuming you have pip, virtualenv and virtualenvwrapper
+So try this (assuming you have pip, virtualenv and virtualenvwrapper 
 installed)  
 
-{% highlight bash %}
+{{< highlight bash >}}
 $ mktmpenv
 $ pip install conda
 $ conda init
 $ conda install scipy
-{% endhighlight %}  
-   
+{{< / highlight >}}
+    
 SciPy plus NumPy and numerous dependencies are installed in under a
 minute! Obviously, you can not convert this to a requirements.txt per
 se, but using [Fabric](http://fabfile.org/) you can make a task to
