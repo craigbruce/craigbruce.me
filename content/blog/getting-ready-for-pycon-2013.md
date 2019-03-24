@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Getting ready for PyCon 2013
-date: 2013-03-10 06:24 -0700
-tags: pycon, python
+title: "Getting ready for PyCon 2013"
+date: 2013-03-10T06:24:04-07:00
 ---
 
-![PyCon 2013]({{ "/assets/pycon2013.png" | absolute_url }})
+![PyCon 2013](/img/pycon2013.png)
 
 PyCon US 2013 is nearly upon us. This is my first PyCon and completes
 my attendance at both major US Python conferences (after attending
