@@ -1,13 +1,9 @@
 ---
-layout: post
-title: Eclipse Galileo
-date: 2009-06-28 18:08 +0000
-image: /assets/eclipse_is_here.png
-tags: eclipse
-description: Eclipse Galileo is now generally available
+title: "Eclipse Galileo"
+date: 2009-06-28T18:08:08+00:00
 ---
 
-![Eclipse Galileo]({{ "/assets/eclipse_is_here.png" | absolute_url }})
+![Eclipse Galileo](/img/eclipse_is_here.png)
 
 Eclipse continues it's annual eclipse release, this year with Galileo. Available
 to download from [here](http://www.eclipse.org/downloads/).  
