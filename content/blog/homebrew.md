@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Homebrew
-date: 2012-05-01 06:44 -0700
-tags: mac os x
+title: "Homebrew"
+date: 2012-05-01T06:44:00-07:00
 ---
 
 [Homebrew](https://brew.sh), the OS X package manager, not the beverage, is the third
