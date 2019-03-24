@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Blog spring clean
-date: 2010-08-30 18:08 +0000
-description: Enabling code highlighting using Google Blogger
+title: "Blog spring clean"
+date: 2010-08-30T18:08:08+00:00
 ---
 
 Admittedly this is late for a spring clean, but Blogger has introduced a
@@ -16,7 +14,7 @@ found [here](http://www.cyberack.com/2007/07/adding-syntax-highlighter-to-blogg
   
 So now I can easily publish code like this:  
 
-{% highlight html %}
+{{< highlight html >}}
 <html>
   <head>
     <title>Tutorial: HelloWorld</title>
@@ -25,22 +23,22 @@ So now I can easily publish code like this:
     <h1>HelloWorld Tutorial</h1>
   </body>
 </html>
-{% endhighlight %}  
+{{< / highlight >}} 
 
 (You have escape angular brackets)  
   
-{% highlight python %}
+{{< highlight python3 >}}
 print "Hello, World!"
-{% endhighlight %} 
+{{< / highlight >}}
 
-{% highlight java %}
+{{< highlight java >}}
 // Outputs "Hello, world!" and then exits
 public class HelloWorld {
    public static void main(String[] args) {
        System.out.println("Hello world!");
    }
 }
-{% endhighlight %} 
+{{< / highlight >}}
 
   
 Don't use the Blogger WYSIWYG editor for this, switch to HTML else it
