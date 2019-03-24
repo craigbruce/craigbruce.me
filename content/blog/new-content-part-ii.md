@@ -1,7 +1,6 @@
 ---
-layout: post
-title: New content... part II
-date: 2010-04-03 16:58 +0000
+title: "New content... part II"
+date: 2010-04-03T16:58:58+00:00
 ---
 
 I've finally submitted my PhD thesis! Therefore, I now have spare time,
