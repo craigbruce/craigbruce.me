@@ -1,11 +1,9 @@
 ---
-layout: post
-title: All change
-date: 2012-02-20 05:24 -0700
-tags: openeye
+title: "All change"
+date: 2012-02-20T05:24:02-07:00
 ---
 
-![OpenEye Scientific Software]({{ "/assets/oelogo.png" | absolute_url }})
+![OpenEye Scientific Software](/img/oelogo.png)
 
 After three years at a AstraZeneca I decided it was time for a change.
 So instead of Manchester I opted for Santa Fe, New Mexico. I've been
