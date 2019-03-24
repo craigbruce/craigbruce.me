@@ -1,12 +1,9 @@
 ---
-layout: post
-title: PyCharm for Django development
-date: 2012-07-13 04:55 -0700
-tags: django, pycharm, python
+title: "PyCharm for Django development"
+date: 2012-07-13T04:55:00-07:00
 ---
 
-
-![PyCharm]({{ "/assets/pycharm-logo.png" | absolute_url }})
+![PyCharm](/img/pycharm-logo.png)
 
 
 I have been dabbling with Django for a few years now. Previously, I
