@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Using Gunicorn with PyCharm
-date: 2012-07-18 05:28 -0700
-tags: django, pycharm, python
+title: "Using Gunicorn with PyCharm"
+date: 2012-07-18T05:28:00-07:00
 ---
 
-![The Green Unicorn]({{ "/assets/large_gunicorn.png" | absolute_url }})
+![The Green Unicorn](/img/large_gunicorn.png)
  
 When you develop projects with Django it comes with a handy ``runserver``
 which is a lightweight webserver bundled with Django, see more
