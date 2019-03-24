@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Python Virtual Environments
-date: 2012-03-04 07:35 +0700
-tags: python
+title: "Python Virtual Environments"
+date: 2012-03-04T07:35:00-07:00
 ---
 
-![Python]({{ "/assets/python_logo.jpg" | absolute_url }})
+![Python](/img/python_logo.jpg)
   
 Anyone who uses Python regularly will soon encounter the need to install
 an extra package be it [MySQLdb](http://pypi.python.org/pypi/MySQL-python),
@@ -29,19 +27,19 @@ which adds even more functionality.
   
 To get started run the following:  
   
-{% highlight bash %}
+{{< highlight bash >}}
 $ easy_install virtualenv
 $ easy_install virtualenvwrappers  
-{% endhighlight %} 
+{{< / highlight >}}
 
 Next you need to alter your environment slightly in ``~/.bashrc`` or equivalent add:  
   
-{% highlight bash %}
+{{< highlight bash >}}
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/projects
 export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
 source /usr/local/bin/virtualenvwrapper.sh
-{% endhighlight %} 
+{{< / highlight >}} 
 
 Fire up a new terminal or run ``source ~/.bashrc`` and the new commands are
 now available to you. Lets create our new virtual environment with 
