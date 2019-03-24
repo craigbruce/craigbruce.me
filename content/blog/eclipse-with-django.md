@@ -1,13 +1,9 @@
 ---
-layout: post
-title: Eclipse with Django
-date: 2009-06-14 18:29 +0000
-image: /assets/django.gif
-tags: django, eclipse, python
-description: Developing Django websites using Eclipse as your IDE
+title: "Eclipse with Django"
+date: 2009-06-14T18:29:29+00:00
 ---
 
-![Django]({{ "/assets/django.gif" | absolute_url }})
+![Django](/img/django.gif)
 
 [Django](http://www.djangoproject.com/) is popular web framework written
 in Python. For Python users it is an obvious choice to deploy web
