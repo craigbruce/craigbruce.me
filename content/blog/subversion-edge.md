@@ -1,13 +1,9 @@
 ---
-layout: post
-title: Subversion Edge
-date: 2010-09-23 18:32 +0000
-image: /assets/csvn.png
-tags: red hat, subversion
-description: Easy centralization of svn repositories using Subversion Edge
+title: "Subversion Edge"
+date: 2010-09-23T18:32:43+00:00
 ---
 
-![Subversion Edge]({{ "/assets/csvn.png" | absolute_url }})
+![Subversion Edge](/img/csvn.png)
 
 Subversion is an excellent version control system. It is mature enough
 to have all sorts of integration - with Apache and Python amongst
