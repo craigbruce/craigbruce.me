@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Notes and more everywhere
-date: 2012-02-21 05:31 -0700
-tags: ios
+title: "Notes and more everywhere"
+date: 2012-02-21T05:31:00-07:00
 ---
 
-![Evernote]({{ "/assets/evernote-logo.png" | absolute_url }})
+![Evernote](/img/evernote-logo.png)
   
 I download lots of iOS apps, mainly out of curiosity. Some I grow to use
 others just disappear. One which I use more and more and has got better
