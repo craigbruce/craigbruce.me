@@ -1,11 +1,9 @@
 ---
-layout: post
-title: DjangoCon US 2012
-date: 2012-09-25 03:28 -0700
-tags: django, python
+title: "DjangoCon US 2012"
+date: 2012-09-25T03:28:40-07:00
 ---
 
-![DjangoCon US 2012]({{ "/assets/djangoconus2012.png" | absolute_url }})
+![DjangoCon US 2012](/img/djangoconus2012.png)
 
 I was lucky enough to attend DjangoCon earlier this month. It was a great
 experience, I'm still following up on the new tips and tricks I picked
