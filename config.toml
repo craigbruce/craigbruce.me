@@ -11,9 +11,9 @@ disqusShortname = "cheminsilico"
 
 [params]
     author = "Craig Bruce"
-    info = "DevOps/Infrastruture/SysAdmin/Cheminformatician"
+    info = "Infrastruture/DevOps/SysAdmin/Cheminformatician"
     description = "Craig Bruce's personal website"
-    keywords = "blog,developer,personal,devops,aws"
+    keywords = "blog,developer,personal,devops,aws,infrastructure,amazon web services"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/images/favicon-32x32.png"
