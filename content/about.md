@@ -11,3 +11,5 @@ various certifications along the way. I blog from time to time as well.
 
 [![AWS Certified Solution Architect Professional](/img/aws_saprof.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2017-09-28&ci=AWS00129623)
 [![AWS Certified DevOps Engineer Professional](/img/aws_devopsprof.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2014-11-14&ci=AWS00129623)
+
+This website is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
