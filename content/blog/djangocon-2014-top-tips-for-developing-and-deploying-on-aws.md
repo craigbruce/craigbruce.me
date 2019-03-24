@@ -3,6 +3,8 @@ title: "DjangoCon 2014: Top tips for developing and deploying on AWS"
 date: 2014-09-14T21:23:00-07:00
 ---
 
+![DjangoCon US 2014](/img/dcus2014.png)
+
 I was at my third DjangoCon earlier this month. As with the previous
 DjangoCon's it was a lot of fun. For the first time I was speaking,
 which was a first for me, at a tech conference, traditionally I've
