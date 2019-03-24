@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Computational Chemistry sandwich placement available
-date: 2011-01-15 18:31 +0000
-tags: cheminformatics, computational chemistry
+title: "Computational Chemistry sandwich placement available"
+date: 2011-01-15T18:31:02+00:00
 ---
 
 I'm delighted to announce we have a 12 month placement available for a
