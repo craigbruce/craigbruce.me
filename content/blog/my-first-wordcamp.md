@@ -1,11 +1,9 @@
 ---
-layout: post
-title: My first WordCamp
-date: 2013-11-03 20:04 -0700
-tags: php, wordpress
+title: "My first WordCamp"
+date: 2013-11-03T20:04:30-07:00
 ---
 
-![ABQ WordCamp 2013]({{ "/assets/abqwordcamp2013.jpg" | absolute_url }})
+![ABQ WordCamp 2013](/img/abqwordcamp2013.jpg)
 
 [ABQ WordCamp](http://2013.albuquerque.wordcamp.org/) is not the sort of
 conference I normally attend (think PyCon, DjangoCon and AWS Re:Invent
