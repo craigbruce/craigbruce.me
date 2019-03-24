@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Operating systems which are current for now
-date: 2012-02-20 06:07 -0700
-tags: mac os x, red hat, ubuntu
+title: "Operating systems which are current for now"
+date: 2012-02-20T06:07:00-07:00
 ---
 
-![Mac OS X Lion]({{ "/assets/osx_lion.png" | absolute_url }})
+![Mac OS X Lion](/img/osx_lion.png)
   
 After switching employer I'm no longer tied to Windows Vista & Red Hat.
 Truth be told I'm quite happy on Red Hat, Vista less so. Anyway, my new
@@ -13,7 +11,7 @@ setup is Mac OS X Lion & Ubuntu. I use Lion on my personal computer so
 that is no problem. Although from a developer perspective OS X isn't
 Linux like Red Hat, but once you learn the tweaks it does play ball.  
 
-![Ubuntu]({{ "/assets/ubuntu.png" | absolute_url }})
+![Ubuntu](/img/ubuntu.png)
   
 As for my new Linux workstation I was encouraged to use Ubuntu. I tried
 Ubuntu briefly at University and didn't really see what the fuss was
