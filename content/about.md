@@ -5,7 +5,7 @@ date: 2018-12-08T12:16:08-07:00
 
 Some of the actitvites which keep me occupied:
 
--   [OpenEye Scientific](https://www.eyesopen.com): Head of Infrastructure
+-   [OpenEye Scientific](https://www.eyesopen.com): Director of Cloud Operations
 -   [Django Events Foundation North America](https://defna.org): Co-founder & Tresurer
 -   [DjangoCon US](https://djangocon.us): Treasurer
 
