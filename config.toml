@@ -11,7 +11,7 @@ disqusShortname = "cheminsilico"
 
 [params]
     author = "Craig Bruce"
-    info = "Infrastruture/DevOps/SysAdmin/Cheminformatician"
+    info = "Scientific cloud-native builder"
     description = "Craig Bruce's personal website"
     keywords = "blog,developer,personal,devops,aws,infrastructure,amazon web services"
     avatarurl = "img/me.png"
@@ -19,7 +19,7 @@ disqusShortname = "cheminsilico"
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
 
-    footercontent = "Technical tools of the trade"
+    # footercontent = "Technical tools of the trade"
 
     hidecredits = false
     hidecopyright = false
