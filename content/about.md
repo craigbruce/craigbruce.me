@@ -5,7 +5,7 @@ date: 2018-12-08T12:16:08-07:00
 
 Some of the actitvites which keep me occupied:
 
--   [OpenEye Scientific](https://www.eyesopen.com): Director of Cloud Operations
+-   [Amazon Web Services](https://aws.amazon.com): Senior Technical Account Manager
 -   [Django Events Foundation North America](https://defna.org): Co-founder & Tresurer
 -   [DjangoCon US](https://djangocon.us): Treasurer
 
