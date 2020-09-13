@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    HUGO_VERSION: "0.71.1"
+    HUGO_VERSION: "0.73.0"
 
 phases:
   install:
