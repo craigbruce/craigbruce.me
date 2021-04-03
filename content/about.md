@@ -21,4 +21,6 @@ The focus of my work is on cloud solutions and operations for Enterprise AWS cus
 
 [![AWS Certified Security Specialty](/img/aws_secspec.png)](https://www.youracclaim.com/badges/8fb9e8c9-05bb-4222-9ec2-a0388160d24b/public_url)
 
+[![Royal Society of Chemistry Member](/img/mrsc.png)](https://membership.recognition.rsc.org/2cae8659-bf74-42b4-9679-52005ab64466)
+
 This website is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
