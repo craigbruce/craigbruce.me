@@ -16,33 +16,31 @@ disqusShortname = "cheminsilico"
     keywords = "blog,developer,personal,devops,aws,infrastructure,amazon web services"
     avatarurl = "img/me.png"
 
+
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
 
-    # footercontent = "Technical tools of the trade"
-
-    hidecredits = false
-    hidecopyright = false
+    colorScheme = "dark"
+    hideColorSchemeToggle = false
+    since = "2009"
 
     rtl = false
-
     math = true
-    custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fa fa-twitter fa-2x"
     weight = 1
     url = "https://twitter.com/craigbruce"
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 2
     url = "https://github.com/craigbruce"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/craigbruce"
 
