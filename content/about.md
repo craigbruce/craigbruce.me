@@ -3,13 +3,9 @@ title: "About"
 date: 2018-12-08T12:16:08-07:00
 ---
 
-Some of the actitvites which keep me occupied:
+I'm currently Sr Director Design Technology at [Treeline Biosciences](https://treelinebiosciences.com/), where I'm responsible for both our core and scientific Information Technology needs. Previously, I've spent time at [Amazon Web Services](https://aws.amazon.com/), [OpenEye Scientific](https://www.eyesopen.com/) & [AstraZeneca](https://www.astrazeneca.com/). I enjoy volunteer activities as well which led me to cofound [DEFNA](https://www.defna.org/) to run DjangoCon US.
 
--   [Amazon Web Services](https://aws.amazon.com): Enterprise Support Manager
--   [Django Events Foundation North America](https://defna.org): Co-founder & Director
--   [DjangoCon US](https://djangocon.us): Treasurer
-
-The focus of my work is on cloud solutions and operations for Enterprise AWS customers. Along my personal AWS journey, I have picked up some certifications. I blog from time to time as well.
+The focus of my work is on cloud solutions typically in life sciences. Along my personal AWS journey, I have picked up some certifications. I blog from time to time as well.
 
 [![AWS Certified Cloud Practitioner](/img/aws_cloudprac.png)](https://www.credly.com/badges/cb34e6f7-ed76-4351-975d-af0871234127/public_url)
 
