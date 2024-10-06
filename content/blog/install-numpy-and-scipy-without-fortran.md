@@ -32,8 +32,6 @@ a new feature has just been announced, you can pip install anaconda
 itself then take advantage of the binary distributions it provides for
 you.
 
-{{< tweet 401868707913158656 >}}
-
 So try this (assuming you have pip, virtualenv and virtualenvwrapper 
 installed)  
 
