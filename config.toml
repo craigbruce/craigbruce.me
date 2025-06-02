@@ -4,7 +4,7 @@ defaultcontentlanguage = "en"
 title = "Craig Bruce"
 theme = "hugo-coder"
 
-paginate = 20
+pagination.pagerSize = 20
 canonifyurls = true
 
 disqusShortname = "cheminsilico"
