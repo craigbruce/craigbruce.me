@@ -1,6 +1,10 @@
 ---
 title: "DjangoCon 2014: Top tips for developing and deploying on AWS"
 date: 2014-09-14T21:23:00-07:00
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 ---
 
 ![DjangoCon US 2014](/img/dcus2014.png)
@@ -24,9 +28,7 @@ importantly for me it will be useful to improve my presentation
 technique and with video evidence I can track my progress (hopefully
 anyway).
 
-You can review the slides and videos below - I hope you find it useful.
+You can review the [slides](https://speakerdeck.com/craigbruce/top-tips-for-developing-and-deploying-on-aws) and videos - I hope you find it useful.
 
-<script async class="speakerdeck-embed" data-id="73d0ab00168101321031426a91aead3e" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>
-<br/>
 
 {{< youtube gT4oC6QyN2Q >}}
